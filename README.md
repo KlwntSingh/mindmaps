@@ -1,0 +1,3 @@
+# mindmaps
+
+Mindmaps for easy and fast understanding...
