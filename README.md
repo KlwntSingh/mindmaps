@@ -1,7 +1,7 @@
 
-#Mindmaps
+# Mindmaps
 My notes on different technologies
-###Security
+### Security
 - Security Theory.xmind
 - Web Application Security.xmind
 - Certifications.xmind
@@ -13,7 +13,7 @@ My notes on different technologies
 - Man-In-Middle attack.xmind
 - Security.xmind
 
-###Software Design
+### Software Design
 - Software Architecture.xmind
 - Class Diagrams.xmind
 - Design Patterns Head first book.xmind
@@ -22,7 +22,7 @@ My notes on different technologies
 - Refactoring by martin fowler.xmind
 - Microservices.xmind
 
-###Devops
+### Devops
 - Perfmon.xmind
 - Linux Tunning.xmind
 - Powershell.xmind
@@ -30,7 +30,7 @@ My notes on different technologies
 - shell scripting.xmind
 - Python.xmind
 
-###Software Engineering
+### Software Engineering
 - Deep Learning.xmind
 - QA.xmind
 - Site Reliability Engineering by google.xmind
@@ -38,7 +38,7 @@ My notes on different technologies
 - Java.xmind
 - MySql.xmind
 
-###Networking
+### Networking
 - SNMP.xmind
 - Switching.xmind
 - TCP NOTES.xmind
